@@ -30,4 +30,4 @@ to it , automatically will show in MySQL table
 
 The data in mySQL Database
 
-![image alt}(https://github.com/YaminBadawi/Hotel-Booking-System/blob/539ece3cc174c53658377b5c187b37c18913a2c0/Mysql-db.png)
+![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/539ece3cc174c53658377b5c187b37c18913a2c0/Mysql-db.png)
