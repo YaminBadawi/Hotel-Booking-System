@@ -20,3 +20,8 @@ And the data automatically moved to MySQL dB System
 ![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/80586ec640af6d17ccc08f3a8523e7efe071f439/Room-page.png)
 
 The user can select the avaiable room from the list, he can click Add room
+
+![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/26523f53ec0ea3e4df0b0e6c92ee304b2fc348d7/Room2-page.png)
+
+When the user click Add room, the data he write in ( " Booking page " ) and Click confirm
+to it , automatically will show in MySQL table
