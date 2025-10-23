@@ -12,4 +12,9 @@ ID " accept only 11 number , " Phone " accept only 10 number , Email " accept ti
 
 ![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/c84b07eed28dca4038a55189317df22aaf11cff4/Coustmer-Page.png)
 
-![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/0eabe0b4c789c5afb43fd8fd64f3d1d14b8c787d/Coustmer2-page.png)
+![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/0eabe0b4c789c5afb43fd8fd64f3d1d14b8c787d/Coustmer2-page.png
+
+If the system check from the user data, he can click ( " save " )
+And the data automatically moved to MySQL dB System
+
+
