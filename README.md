@@ -25,3 +25,7 @@ The user can select the avaiable room from the list, he can click Add room
 
 When the user click Add room, the data he write in ( " Booking page " ) and Click confirm
 to it , automatically will show in MySQL table
+
+![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/ad491bac6e32f4c347ab84646027ccab706efd82/Booking%20confirm-page.png)
+
+The data in mySQL Database
