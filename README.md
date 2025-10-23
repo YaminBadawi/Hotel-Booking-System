@@ -29,3 +29,5 @@ to it , automatically will show in MySQL table
 ![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/ad491bac6e32f4c347ab84646027ccab706efd82/Booking%20confirm-page.png)
 
 The data in mySQL Database
+
+![image alt}(https://github.com/YaminBadawi/Hotel-Booking-System/blob/539ece3cc174c53658377b5c187b37c18913a2c0/Mysql-db.png)
