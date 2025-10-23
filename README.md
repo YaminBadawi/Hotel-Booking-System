@@ -19,4 +19,4 @@ And the data automatically moved to MySQL dB System
 
 ![image alt](https://github.com/YaminBadawi/Hotel-Booking-System/blob/80586ec640af6d17ccc08f3a8523e7efe071f439/Room-page.png)
 
-The user can select the avaiable room from the list
+The user can select the avaiable room from the list, he can click Add room
